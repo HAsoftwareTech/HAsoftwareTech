@@ -27,7 +27,7 @@
     <h2>Let's Create Something Amazing</h2>
     <h3>I'm dedicated to transforming your website into a visually stunning, functional masterpiece that captivates your audience and drives results. If you're ready to take your online presence to the next level,</3>
 <h1>Contact Information:</h1>
-<h3>📫 How to reach me: <span style="color: red;">hasoftwaretechnologies@gmail.com</span></h3>
+### 📫 How to reach me: <font color="red">hasoftwaretechnologies@gmail.com</font>
 
 <h2 style:"margin-left=31px">WhatsApp: <a href="https://wa.me/923041235525">+92 304 123 5525</a> 
   <h2>
