@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Anwar</h1>
 <h1 align="center">#### A passionate frontend developer from Pakistan</h1>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=hasoftwaretech&label=Profile%20views&color=0e75b6&style=flat" alt="hasoftwaretech" width="170" height="40">
-</p>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
